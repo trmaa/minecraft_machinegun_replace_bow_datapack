@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "input": [
+    "minecraft:iron_block",
+    "minecraft:gunpowder"
+  ],
+  "material": [
+    "oak_wood",
+    "minecraft:iron_block"
+  ],
+  "pattern": [
+    "iip",
+    " ii",
+    "  w"
+  ],
+  "key": {
+    "i": [
+      "minecraft:iron_block"
+    ],
+    "p": [
+      "minecraft:gunpowder"
+    ],
+    "w": [
+      "oak_wood"
+    ]
+  },
+  "result": {
+    "id": "crossbow",
+    "components": {
+      "minecraft:item_model": "machinegun:machinegun",
+      "minecraft:item_name": "\"Revolver\"",
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:quick_charge": 255
+        },
+        "show_in_tooltip": false
+      }
+    }
+  }
+}

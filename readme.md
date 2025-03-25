@@ -2,7 +2,7 @@
 
 ## Usage
 
-![](screenshots/2025-03-25_22.19.22.png)
+![](screenshots/2025-03-25_22.18.50.png)
 ![](screenshots/2025-03-25_22.58.56.png)
 
 The gun shoots arrows, first right click cocks and second fires.

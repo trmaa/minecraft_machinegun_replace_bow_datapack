@@ -28,7 +28,7 @@
   "result": {
     "id": "crossbow",
     "components": {
-      "minecraft:item_model": "revolver:revolver",
+      "minecraft:item_model": "revolver:evil_revolver",
       "minecraft:item_name": "\"Evil revolver\"",
       "minecraft:enchantments": {
         "levels": {

@@ -3,7 +3,7 @@
 ## Usage
 
 ![](screenshots/2025-03-25_22.19.22.png)
-![](screenshots/2025-03-25_22.18.50.png)
+![](screenshots/2025-03-25_22.58.56.png)
 
 The gun shoots arrows, first right click cocks and second fires.
 
@@ -12,6 +12,7 @@ The gun shoots arrows, first right click cocks and second fires.
 ![](screenshots/2025-03-23_15.55.07.png)
 ![](screenshots/2025-03-23_15.55.11.png)
 ![](screenshots/2025-03-25_22.02.02.png)
+![](screenshots/2025-03-25_22.59.46.png)
 
 ## Install
 

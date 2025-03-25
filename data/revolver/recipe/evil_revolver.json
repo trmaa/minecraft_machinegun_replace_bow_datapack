@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "input": [
+    "minecraft:iron_block",
+    "minecraft:gunpowder"
+  ],
+  "material": [
+    "oak_wood",
+    "minecraft:iron_block"
+  ],
+  "pattern": [
+    "iip",
+    " ii",
+    "  w"
+  ],
+  "key": {
+    "i": [
+      "minecraft:netherite_ingot"
+    ],
+    "p": [
+      "minecraft:blaze_powder"
+    ],
+    "w": [
+      "minecraft:crimson_hyphae"
+    ]
+  },
+  "result": {
+    "id": "crossbow",
+    "components": {
+      "minecraft:item_model": "revolver:revolver",
+      "minecraft:item_name": "\"Evil revolver\"",
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:quick_charge": 255,
+          "minecraft:flame": 255,
+          "minecraft:infinity": 255,
+          "minecraft:mending": 255
+        },
+        "show_in_tooltip": false
+      }
+    }
+  }
+}

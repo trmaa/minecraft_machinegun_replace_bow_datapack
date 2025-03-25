@@ -1,6 +1,6 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "machinegun:item/machinegun"
+		"model": "revolver:item/revolver"
 	}
 }

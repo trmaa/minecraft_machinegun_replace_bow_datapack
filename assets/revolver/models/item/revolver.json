@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "machinegun:item/machinegun"
+		"layer0": "revolver:item/revolver"
 	}
 }
